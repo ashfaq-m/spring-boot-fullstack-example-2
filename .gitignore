@@ -10,3 +10,9 @@
 /Backend/src/main/resources/.DS_Store
 /Backend/.DS_Store
 .DS_Store
+target/
+.idea/
+node_modules
+mvnw
+mvnw.cmd
+mvn*
