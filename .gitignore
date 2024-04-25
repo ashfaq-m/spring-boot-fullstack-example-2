@@ -1,0 +1,12 @@
+*/target/
+*/.idea/
+*/node_modules
+*/.DS_Store
+*/mvnw
+*/mvnw.cmd
+*/mvn*
+/Backend/src/.DS_Store
+/Backend/src/main/.DS_Store
+/Backend/src/main/resources/.DS_Store
+/Backend/.DS_Store
+.DS_Store
